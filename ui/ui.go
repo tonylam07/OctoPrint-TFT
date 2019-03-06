@@ -15,7 +15,7 @@ import (
 var (
 	StylePath    string
 	WindowName   = "OctoPrint-TFT"
-	WindowHeight = 320
+	WindowHeight = 800
 	WindowWidth  = 480
 )
 
